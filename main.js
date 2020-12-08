@@ -68,6 +68,7 @@ const instanceSurvivalAe = (num) => {
         }
     }
     return myArray;
+    //my first branch
     //return x;
 }
 console.log(instanceSurvivalAe(30));
